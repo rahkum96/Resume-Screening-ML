@@ -2,6 +2,8 @@
 Machine Learning Project on Resume Screening with Python
 
 ### About 
+![image](https://user-images.githubusercontent.com/86415241/135666928-223e5ddb-d407-4ea2-912b-82036c1f21ae.png)
+
 Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates.
 
 Hiring the right talent is a challenge for all businesses. This challenge is magnified by the high volume of applicants if the business is labour-intensive, growing, and facing high attrition rates.
